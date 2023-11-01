@@ -1,0 +1,40 @@
+/* p{
+    padding:30px 60px;
+    border:1px solid;
+    border-color:brown;
+    margin:40px;
+
+}
+div{
+    padding:30px 60px;
+    border:1px solid;
+    border-color:blueviolet;
+    margin:40px;
+} */
+/* nav{
+    border:2px solid black;
+    display:flex;
+    justify-content: space-between;
+}
+
+.items{
+    display:flex;
+} */
+/* .items:hover{
+    color:red;
+}
+a:hover{
+    color:red;
+} */
+body{
+    background-color:yellowgreen;
+@media(max-width:600px){
+    body{
+    background-color:aqua;
+    }
+}
+@media(max-widht:300px){
+    body{
+        background-color: blue;
+    }
+}
